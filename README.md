@@ -2,9 +2,8 @@
 
                                                                                                                       ## 23.08.2024
 ### Ziele
-1. 2-4 weitere Aufträge bei Modul 3169 machen
-2. 
-3. 
+1. 2-4 weitere Aufträge bei Modul 316 machen
+2. Modul 431 bis nach plan weiter arbeiten
 
 #### Reflexion
 
