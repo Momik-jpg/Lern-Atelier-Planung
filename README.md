@@ -7,6 +7,7 @@
 3. soll.ch mit Tim Ackered anschauen
 
 #### Reflexion
+Ich habe meine Ziele erfüllt aber gegen ende der Lektion wurde ich unkonzentriert
 
 
 ## 16.08.2024
