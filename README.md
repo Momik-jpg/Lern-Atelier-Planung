@@ -1,5 +1,14 @@
 # Lern-Atelier-Planung          
-                                                                                                                      
+
+                                                                                                                      ## 23.08.2024
+### Ziele
+1. 2-4 weitere Aufträge bei Modul 3169 machen
+2. 
+3. 
+
+#### Reflexion
+
+
 ## 23.08.2024
 ### Ziele
 1. Auftrag 1708 im Module 431 (IPERKA verstehen)
