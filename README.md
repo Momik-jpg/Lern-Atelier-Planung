@@ -1,8 +1,7 @@
 # Lern-Atelier-Planung          
 ## 6.09.24                                                                                                                         
 ### Ziele
-1. 
-2. 
+1. Am Modul 319 den auftrag 14 Lösen und 15 .
 
 #### Reflexion
 
