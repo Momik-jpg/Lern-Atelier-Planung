@@ -1,10 +1,11 @@
 # Lern-Atelier-Planung          
 ## 6.09.24                                                                                                                         
 ### Ziele
-1. Am Modul 319 den auftrag 14 Lösen und 15 .
+1. Am Modul 319 den auftrag 14 Lösen und 15
+2. Das Ich 09 und 13 fertig habe
 
 #### Reflexion
-
+Ziele ereicht gegen Sclhuss wieder unkonzentriert geworden
 ## 30.08.24                                                                                                                         
 ### Ziele
 1. 2-4 weitere Aufträge bei Modul 316 machen
