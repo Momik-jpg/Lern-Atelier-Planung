@@ -1,12 +1,12 @@
 # Lern-Atelier-Planung          
 
-                                                                                                                      ## 23.08.2024
+### 30.08.24                                                                                                                      ## 23.08.2024
 ### Ziele
 1. 2-4 weitere Aufträge bei Modul 316 machen
 2. Modul 431 bis nach plan weiter arbeiten
 
 #### Reflexion
-
+Alles wie geplannt erfüllt, aber gegen Ende immer mehr Unkonzentriert worden
 
 ## 23.08.2024
 ### Ziele
