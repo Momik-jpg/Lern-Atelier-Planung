@@ -2,7 +2,7 @@
 ## 6.09.24                                                                                                                         
 ### Ziele
 1. Am Modul 319 den auftrag 14 Lösen und 15
-2. Das Ich 09 und 13 fertig habe
+2. Das Ich 09 und 13 im Modul 431 fertig habe.
 
 #### Reflexion
 Ziele ereicht gegen Sclhuss wieder unkonzentriert geworden
