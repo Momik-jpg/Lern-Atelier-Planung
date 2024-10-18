@@ -1,4 +1,9 @@
 # Lern-Atelier-Planung
+## 18.10.24
+### Ziele
+1.alles von 319 repertieren
+
+#### Reflexion
 ## 13.09.24                                                                                                                         
 ### Ziele
 1.Bei meiner Website e-mail zugang und zahlungs methode
