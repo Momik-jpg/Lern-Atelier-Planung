@@ -4,9 +4,16 @@
 1.alles von 319 repertieren
 
 #### Reflexion
+## 20.09.24                                                                                                                         
+### Ziele
+1. Bei meiner Website e-mail zugang
+2. 319 weiter programieren
+
+#### Reflexion
+Ziele zuteils ereicht, gute lern
 ## 13.09.24                                                                                                                         
 ### Ziele
-1.Bei meiner Website e-mail zugang und zahlungs methode
+1. Bei meiner Website e-mail zugang und zahlungs methode
 
 #### Reflexion
 Ziele nicht ereicht, aber effizient und produktiv
