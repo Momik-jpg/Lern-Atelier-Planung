@@ -1,4 +1,10 @@
-# Lern-Atelier-Planung          
+# Lern-Atelier-Planung
+## 13.09.24                                                                                                                         
+### Ziele
+1.Bei meiner Website e-mail zugang und zahlungs methode
+
+#### Reflexion
+Ziele nicht ereicht, aber effizient und produktiv
 ## 6.09.24                                                                                                                         
 ### Ziele
 1. Am Modul 319 den auftrag 14 Lösen und 15
