@@ -10,7 +10,7 @@
 2. 319 weiter programieren
 
 #### Reflexion
-Ziele zuteils ereicht, gute lern
+Ziele zuteils ereicht, gut genarbeitet
 ## 13.09.24                                                                                                                         
 ### Ziele
 1. Bei meiner Website e-mail zugang und zahlungs methode
