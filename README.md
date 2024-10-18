@@ -4,6 +4,7 @@
 1.alles von 319 repertieren
 
 #### Reflexion
+ES hat alles ausgezeichnet Funktioniert
 ## 20.09.24                                                                                                                         
 ### Ziele
 1. Bei meiner Website e-mail zugang
