@@ -1,4 +1,7 @@
 # Lern-Atelier-Planung
+## 25.10.24
+### Ziele
+1.alles von 319 repertieren und lernen
 ## 18.10.24
 ### Ziele
 1.alles von 319 repertieren
