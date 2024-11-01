@@ -1,4 +1,7 @@
 # Lern-Atelier-Planung
+## 1.11.24
+### Ziele
+1.am Projekt arbeiten und 319 zusammenfassen.
 ## 25.10.24
 ### Ziele
 1.alles von 319 repertieren und lernen
