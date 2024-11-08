@@ -1,8 +1,9 @@
 # Lern-Atelier-Planung
 ## 8.11.24
 ### Ziele
-1.Projekt überarbeiten und dazu ein PaP machen.
-2.162 Modul repetieren und vorarbeiten
+1. Projekt überarbeiten und dazu ein PaP machen.
+2. 162 Modul repetieren und vorarbeiten
+3. Java scrpit lernen um ein game zu modden.
 #### Reflexion
 
 ## 1.11.24
