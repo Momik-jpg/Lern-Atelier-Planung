@@ -1,7 +1,16 @@
 # Lern-Atelier-Planung
+## 8.11.24
+### Ziele
+1.Projekt überarbeiten und dazu ein PaP machen.
+2.162 Modul repetieren und vorarbeiten
+#### Reflexion
+
 ## 1.11.24
 ### Ziele
 1.am Projekt arbeiten und 319 zusammenfassen.
+#### Reflexion
+Ich habe effizient gearbeitet und habe meine Ziele erfüllt.
+
 ## 25.10.24
 ### Ziele
 1.alles von 319 repertieren und lernen
@@ -21,21 +30,20 @@ Ziele zuteils ereicht, gut genarbeitet
 ## 13.09.24                                                                                                                         
 ### Ziele
 1. Bei meiner Website e-mail zugang und zahlungs methode
-
 #### Reflexion
 Ziele nicht ereicht, aber effizient und produktiv
+
 ## 6.09.24                                                                                                                         
 ### Ziele
 1. Am Modul 319 den auftrag 14 Lösen und 15
 2. Das Ich 09 und 13 im Modul 431 fertig habe.
-
 #### Reflexion
 Ziele ereicht gegen Sclhuss wieder unkonzentriert geworden
+
 ## 30.08.24                                                                                                                         
 ### Ziele
 1. 2-4 weitere Aufträge bei Modul 316 machen
 2. Modul 431 bis nach plan weiter arbeiten
-
 #### Reflexion
 Alles wie geplannt erfüllt, aber gegen Ende immer mehr Unkonzentriert worden
 
@@ -44,7 +52,6 @@ Alles wie geplannt erfüllt, aber gegen Ende immer mehr Unkonzentriert worden
 1. Auftrag 1708 im Module 431 (IPERKA verstehen)
 2. C# sharp Papuhr programmiern
 3. soll.ch mit Tim Ackered anschauen
-
 #### Reflexion
 Ich habe meine Ziele erfüllt aber gegen ende der Lektion wurde ich unkonzentriert
 
@@ -53,7 +60,6 @@ Ich habe meine Ziele erfüllt aber gegen ende der Lektion wurde ich unkonzentrie
 ### Ziele
 1. am Modul 431 weiter arbeiten ( 3 Lektionen )
 2. Module 369 weiter arbeiten ( 2 Lektionen )
-
 #### Reflexion
 Zeit und Pausen einteilung hat mehr oder weniger funktioniert,
 aber die produktivität war zufriedend stellend
