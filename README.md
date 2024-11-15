@@ -1,4 +1,11 @@
 # Lern-Atelier-Planung
+## 15.11.24
+### Ziele
+1. zum Projekt ein tutorial Video machen
+2. Das PaP überarbeiten
+3. Dem Kunden schreiben
+#### Reflexion
+
 ## 8.11.24
 ### Ziele
 1. Projekt überarbeiten und dazu ein PaP machen.
