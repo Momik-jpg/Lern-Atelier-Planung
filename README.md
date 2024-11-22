@@ -1,4 +1,10 @@
 # Lern-Atelier-Planung
+## 22.11.24
+### Ziele
+1. das Video überarbeiten
+2. Dem Kunden schreiben
+3. weiter jave programmieren
+#### Reflexion
 ## 15.11.24
 ### Ziele
 1. zum Projekt ein tutorial Video machen
