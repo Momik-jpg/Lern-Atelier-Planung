@@ -3,7 +3,6 @@
 ### Ziele
 1. Code nach Wunsch vom Kundem überarbeiten
 #### Reflexion
-Ich habe effizient gearbeitet und mein Ziel ereicht.
 ## 22.11.24
 ### Ziele
 1. das Video überarbeiten
