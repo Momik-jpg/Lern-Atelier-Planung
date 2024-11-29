@@ -1,4 +1,8 @@
 # Lern-Atelier-Planung
+## 29.11.24
+### Ziele
+1. Code nach Wunsch vom Kundem überarbeiten
+#### Reflexion
 ## 22.11.24
 ### Ziele
 1. das Video überarbeiten
