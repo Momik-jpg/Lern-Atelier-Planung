@@ -1,4 +1,10 @@
 # Lern-Atelier-Planung
+## 06.12.24
+### Ziele
+1.Portfolio 162
+2.Repetition 162
+3.Projektidee notieren und IPERKA anwenden
+#### Reflexion
 ## 29.11.24
 ### Ziele
 1. Code nach Wunsch vom Kundem überarbeiten
