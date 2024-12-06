@@ -5,6 +5,7 @@
 2. Repetition 162
 3. Projektidee notieren und IPERKA anwenden
 #### Reflexion
+Ich habe alles ausser Nummer 3 ereicht.
 ## 29.11.24
 ### Ziele
 1. Code nach Wunsch vom Kundem überarbeiten
