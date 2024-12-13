@@ -1,4 +1,10 @@
 # Lern-Atelier-Planung
+## 13.12.24
+### Ziele
+1. Planung hochladen
+2. Mod Prgramme herunterladen
+3. In Java einarbeiten
+#### Reflexion
 ## 06.12.24
 ### Ziele
 1. Portfolio 162
