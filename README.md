@@ -5,6 +5,7 @@
 2. an Mod weiter programmieren
 3. und Die Datenbank richtig einrichten
 #### Reflexion
+Ich arbeitete konzentriert und habe meine Ziele ereicht
 ## 13.12.24
 ### Ziele
 1. Planung hochladen
