@@ -1,4 +1,10 @@
 # Lern-Atelier-Planung
+## 20.12.24
+### Ziele
+1. Handlungs Ziel 2 abschliesen
+2. an Mod weiter programmieren
+3. und Die Datenbank richtig einrichten
+#### Reflexion
 ## 13.12.24
 ### Ziele
 1. Planung hochladen
