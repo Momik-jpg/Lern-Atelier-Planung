@@ -1,4 +1,11 @@
 # Lern-Atelier-Planung
+## 20.01.24
+### Ziele
+1. An Modulen weiter arbeiten
+2. an Mod weiter programmieren
+3. Die Datenbank reparieren
+#### Reflexion
+Ich arbeitete konzentriert und habe meine Ziele ereicht
 ## 20.12.24
 ### Ziele
 1. Handlungs Ziel 2 abschliesen
