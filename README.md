@@ -11,7 +11,7 @@
 2. an Mod weiter programmieren
 3. Die Datenbank reparieren
 #### Reflexion
-
+gut gearbeitet, doch auf komplikationen bei der mod gestossen
 ## 20.12.24
 ### Ziele
 1. Handlungs Ziel 2 abschliesen
