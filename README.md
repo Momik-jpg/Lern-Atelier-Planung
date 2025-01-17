@@ -1,5 +1,11 @@
 # Lern-Atelier-Planung
-## 20.01.24
+## 17.01.24
+### Ziele
+1. An Modulen 117 das Kapitel 5 abschliessen.
+2.Java Script repetieren
+3. In C# versuchen Schach zu programieren
+#### Reflexion
+## 10.01.24
 ### Ziele
 1. An Modulen weiter arbeiten
 2. an Mod weiter programmieren
