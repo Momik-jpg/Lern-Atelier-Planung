@@ -1,4 +1,10 @@
 # Lern-Atelier-Planung
+## 24.01.24
+### Ziele
+1. An Modulen 117 das Kapitel 4 planen.
+2. Logisches Datenmodel Korrigieren
+3. In C# Schach zu programieren
+#### Reflexion
 ## 17.01.24
 ### Ziele
 1. An Modulen 117 das Kapitel 5 abschliessen.
