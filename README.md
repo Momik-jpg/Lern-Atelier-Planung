@@ -1,4 +1,9 @@
 # Lern-Atelier-Planung
+## 14.02.24
+### Ziele
+1. An Modulen 117 Kapitel 4 bearbeiten
+2. Aufgabe2: Physisches Datenmodel machen
+3. Aufgabe3 lösen
 ## 24.01.24
 ### Ziele
 1. An Modulen 117 das Kapitel 4 planen.
