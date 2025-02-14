@@ -1,4 +1,9 @@
 # Lern-Atelier-Planung
+## 21.02.24
+### Ziele
+1. Für Schach Projekt schöne Grafiken beschaffen.
+2. Ein Schach bot programmieren
+3. Schach Figuren mit maus bewegen können.
 ## 14.02.24
 ### Ziele
 1. An Modulen 117 Kapitel 4 bearbeiten
